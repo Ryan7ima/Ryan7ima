@@ -128,8 +128,7 @@ Olá! Me chamo **Ryan Lima**, sou de São Paulo - SP e estudante de Análise e D
 <img 
   alt="Top Langs" 
   height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan7ima&layout=compact&theme=dark&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan7ima&layout=compact&theme=dark&locale=pt-br&cache_seconds=1
-)"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan7ima&layout=compact&theme=dark&locale=pt-br](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan7ima&layout=compact&theme=dark&locale=pt-br&cache_seconds=1)"
 />
 
 ---
