@@ -120,12 +120,10 @@ Olá! Me chamo **Ryan Lima**, sou de São Paulo - SP e estudante de Análise e D
 
 ### 📊 Estatísticas
 
-<img 
-  <img 
+<img  
   alt="GitHub Stats" 
   height="180" 
   src="https://github-readme-stats.vercel.app/api?username=Ryan7ima&show_icons=true&theme=dark&locale=pt-br&cache_seconds=1"
-/>
 />
 <img 
   alt="Top Langs" 
