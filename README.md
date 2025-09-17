@@ -25,14 +25,6 @@ Olá! Me chamo **Ryan Lima**, sou de São Paulo - SP e estudante de Análise e D
 />
 <img 
   align="left" 
-  alt="Spring Boot" 
-  title="Spring Boot" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-  align="left" 
   alt="C#" 
   title="C#" 
   width="30px" 
